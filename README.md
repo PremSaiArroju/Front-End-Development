@@ -6,9 +6,9 @@ A basic calculator JavaScript program performs arithmetic operations such as add
 
 Here's a step-by-step description of how a basic calculator JavaScript program works:
 
-HTML Structure: The HTML file contains the structure of the calculator interface. It includes buttons for digits (0-9), operators (+, -, *, /), and special buttons (like clear, equals).
+##HTML Structure: The HTML file contains the structure of the calculator interface. It includes buttons for digits (0-9), operators (+, -, *, /), and special buttons (like clear, equals).
 
-JavaScript Code: The JavaScript code handles user interactions and performs calculations. It typically involves the following steps:
+##JavaScript Code: The JavaScript code handles user interactions and performs calculations. It typically involves the following steps:
 
 Event Handling: JavaScript listens for user input events, such as clicking on buttons.
 
