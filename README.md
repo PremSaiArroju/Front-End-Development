@@ -2,4 +2,4 @@
 
 This repo contains all my projects for the Frontend Development:
 
-Project 1: Calculator Using JavaScript
+Project 1: Calculator Using Basic JavaScript
